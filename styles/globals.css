@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+.maximo-card{
+  max-width: 940px;
+}
+.imagen-card{
+  width: 100%;
+  height: 600px;
+}
